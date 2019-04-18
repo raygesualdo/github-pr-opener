@@ -5,3 +5,4 @@
 - Bash
 - Perl
 - Rust
+- JavaScript
