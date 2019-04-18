@@ -1,6 +1,6 @@
 # GitHub PR Opener
 
-When you first push a branch to GitHub, it returns a message similar to the following:
+When you first push a non-master branch to GitHub, it returns a message similar to the following:
 
 ```
 Counting objects: 637, done.
@@ -16,7 +16,7 @@ remote:
 To github.com:username/reponame.git
 ```
 
-This repository includes code examples of how to parse this output and open the URL on Mac OS X.
+This repository includes code examples of how to parse this output and open the URL on macOS.
 
 ## Languages
 
