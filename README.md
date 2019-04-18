@@ -24,3 +24,4 @@ This repository includes code examples of how to parse this output and open the 
 - Perl
 - Rust
 - JavaScript
+- Go
