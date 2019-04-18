@@ -1,0 +1,8 @@
+[package]
+name = "github-pr-opener"
+version = "0.1.0"
+authors = ["Ray Gesualdo <ray@raygesualdo.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1"

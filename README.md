@@ -4,3 +4,4 @@
 
 - Bash
 - Perl
+- Rust
