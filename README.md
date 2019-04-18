@@ -3,3 +3,4 @@
 ## Languages
 
 - Bash
+- Perl
